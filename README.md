@@ -1,4 +1,4 @@
-# Telecom_Company Churn Rate Project 
+# Telecom Company Churn Rate Project 
 
 O que a empresa precisa fazer para resolver isso?
 Projeto criado com a intenção de gerar **insights diagnósticos sobre as motivações envolvidas na crescente taxa de cancelamento** de serviços de uma empresa de oferecimento de diversos serviços voltados a área de telecomunicações. Segundo  análises preliminares, tal taxa chega a 26% dos clientes, representando a perda de milhões. Dessa forma, objetivo do presente estudo é **levantar os principais motivos dos cancelamentos e quais as possíveis ações para reduzir tal taxa**.
